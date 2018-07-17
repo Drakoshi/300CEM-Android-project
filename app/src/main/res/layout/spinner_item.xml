@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/activatedBackgroundIndicator"
+    android:gravity="center_vertical"
+    android:minHeight="?android:attr/listPreferredItemHeightSmall"
+    android:paddingEnd="@dimen/input_padding"
+    android:paddingLeft="@dimen/input_padding"
+    android:paddingRight="@dimen/input_padding"
+    android:paddingStart="@dimen/input_padding"
+    android:textAppearance="?android:attr/textAppearanceListItemSmall"
+    android:textSize="@dimen/text_size" />

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Add fragment resources -->
+    <string name="addName">Name</string>
+    <string name="addDesc">Description</string>
+    <string name="addType">Type</string>
+    <string name="addSave">Save</string>
+    <string name="take_photo">Take photo</string>
+    <string name="save_photo">Save</string>
+    <string name="delete_photo">Delete photo</string>
+    <string name="associated_picture">Associated picture</string>
+    <string name="addReminder">Reminder</string>
+
+    <string-array name="priority">
+        <item>Normal</item>
+        <item>Medium</item>
+        <item>Important</item>
+    </string-array>
+
+    <string-array name="reminder">
+        <item>No reminder</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>1m</item>
+        <item>5m</item>
+        <item>10m</item>
+    </string-array>
+
+    <!-- DetailDisplay strings -->
+    <string name="default_title">Placeholder</string>
+    <string name="default_description">Something went wrong! This text should not be visible!</string>
+    <string name="default_time">Placeholder time HAHAHA</string>
+    <string name="default_created">Created On:</string>
+
+    <!-- Misc -->
+    <string name="app_name">Program</string>
+    <string name="drawer_button">Open Drawer</string>
+    <string name="delete_data">Delete all data</string>
+
+    <string name="drawerItemList">List</string>
+    <string name="drawerItemAdd">Add</string>
+
+    <!--
+    <string name="path">Android/data/com.example.package.name/files/Pictures</string>
+    <string name="addFragTitle">Add item</string>
+    -->
+
+    <!-- text formatting elements -->
+    <dimen name="text_size">15sp</dimen>
+    <dimen name="input_padding">8dp</dimen>
+
+</resources>
